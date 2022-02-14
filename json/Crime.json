@@ -1,0 +1,64 @@
+[
+    {
+        "caseNumber": 5,
+        "type": "INCHOATE",
+        "description": "trespass early morning in high crime area",
+        "date": "08-12-2020 06:50",
+        "address": "349 Lake Avenue",
+        "assignedId": "edf66144-0dcb-40d1-b4f2-6cc1d60b1bc6",
+        "criminals": [
+            "11e0230f-d81a-4554-a25b-ae37fa7a0a7f"
+        ],
+        "suspects": [
+            "b1e58c9a-5542-48c3-9477-c27171f3ed06"
+        ],
+        "witnesses": [],
+        "victims": [],
+        "evidence": [
+            "246b50d5-2e94-4c21-89a7-3e1d78b7415e"
+        ],
+        "isSolved": false
+    },
+    {
+        "caseNumber": 67,
+        "type": "PERSONAL",
+        "description": "murder late night at hotel",
+        "date": "09-04-2008 23:00",
+        "address": "4897 Ocean Blvd",
+        "assignedId": "2a5aea58-6361-4b0f-b48f-1f5189f8be88",
+        "criminals": [
+            "887c318e-1f17-407b-984e-c429a46d2231"
+        ],
+        "suspects": [],
+        "witnesses": [],
+        "victims": [
+            "e1db131c-4825-4a96-a344-83ca97ec43db"
+        ],
+        "evidence": [
+            "acedc38d-8f69-4a68-8225-235e45205f8a"
+        ],
+        "isSolved": false
+    },
+    {
+        "caseNumber": 139,
+        "type": "STATUTORY",
+        "description": "Bank Robbery",
+        "date": "12-10-2020 09:00",
+        "address": "31 Main Street",
+        "assignedId": "2a5aea58-6361-4b0f-b48f-1f5189f8be88",
+        "criminals": ["887c318e-1f17-407b-984e-c429a46d2231"],
+        "suspects": [
+            "e87c2ffb-20fa-4bf3-a793-0ded4e067155"
+        ],
+        "witnesses": [
+            "c189acb0-eb95-4e85-b8a8-527afa87d440",
+            "d91ed2b4-c2e7-48f5-9936-0423a898452d"
+        ],
+        "victims": ["36ef79b8-218d-4861-9134-6a72b6b15ad3"],
+        "evidence": [
+            "352df160-65a3-4f2a-8c3b-ff4e61cdbefb",
+            "0149cc26-6bb2-4383-8350-52de9efef10a"
+        ],
+        "isSolved": false
+    }
+]

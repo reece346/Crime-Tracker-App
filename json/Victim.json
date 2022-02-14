@@ -1,0 +1,32 @@
+[
+    {
+        "id": "c28b3778-b602-42b9-8c1d-6df391a654e4",
+        "firstName": "Luke",
+        "lastName": "Dowd",
+        "deceased": false,
+        "phoneNumber": "864-123-4567",
+        "address": "5 Harbor Drive",
+        "story": "Approached by stranger and mugged",
+        "criminalDesc": "6ft, white male, kinda ugly with long hair"
+    },
+    {
+        "id": "36ef79b8-218d-4861-9134-6a72b6b15ad3",
+        "firstName": "Joesph",
+        "lastName": "Whitney",
+        "deceased": false,
+        "phoneNumber": "864-354-4567",
+        "address": "76 Lake street",
+        "story": "Saw criminal rummage through my vehicle",
+        "criminalDesc": "5ft, white female, kinda cute with long brown hair"
+    },
+    {
+        "id": "e1db131c-4825-4a96-a344-83ca97ec43db",
+        "firstName": "Pam",
+        "lastName": "Gilly",
+        "deceased": true,
+        "phoneNumber": "555-383-3988",
+        "address": "2211 Laurel St, Columbia, SC, 29204",
+        "story": "Was murdered by perpetrator",
+        "criminalDesc": "N/A"
+    }
+]

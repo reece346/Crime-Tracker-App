@@ -1,0 +1,44 @@
+[
+    {
+        "id": "f5701f98-7c09-4e74-8385-567b3a9ebf96",
+        "firstName": "Ryan",
+        "lastName": "Sheckler",
+        "deceased": false,
+        "phoneNumber": "765-908-0933",
+        "address": "724 Mills Rd, Columbia, SC, 29206",
+        "proof": true,
+        "story": "was walking down the street and saw crime",
+        "timeOfEvent": "01-12-2021 01:20"
+    },
+    {
+        "id": "373a4d3a-6b3d-4cda-8a63-9f99e48809ec",
+        "firstName": "Tony",
+        "lastName": "Hawk",
+        "deceased": false,
+        "phoneNumber": "735-912-0923",
+        "address": "4432 Willingham Dr, Columbia, SC, 29206",
+        "proof": false,
+        "story": "was in his apartment and saw crime take place",
+        "timeOfEvent": "01-10-2020 03:30"
+    },
+    {
+        "id": "c189acb0-eb95-4e85-b8a8-527afa87d440",
+        "firstName": "Pierce",
+        "lastName": "Fulton",
+        "deceased": false,
+        "phoneNumber": "555-4819-927",
+        "address": "4619 Reamer Ave, Columbia, SC, 29206",
+        "proof": true,
+        "story": "overheard the suspect speak about his financial problems"
+    },
+    {
+        "id": "d91ed2b4-c2e7-48f5-9936-0423a898452d",
+        "firstName": "Elaine",
+        "lastName": "Jones",
+        "deceased": false,
+        "phoneNumber": "555-947-1424",
+        "address": "1505 Garden Plz, Columbia, SC, 29204",
+        "proof": true,
+        "story": "recognized the suspect's voice"
+    }
+]

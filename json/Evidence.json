@@ -1,0 +1,26 @@
+[
+    {
+        "id": "246b50d5-2e94-4c21-89a7-3e1d78b7415e",
+        "type": "Camera Footage",
+        "description": "Footage of Tresspass given by owner.",
+        "amount": 1
+    },
+    {
+        "id": "acedc38d-8f69-4a68-8225-235e45205f8a",
+        "type": "Forensics",
+        "description": "Hair of alleged murderer found on scene. Tested for DNA.",
+        "amount": 1
+    },
+    {
+        "id": "352df160-65a3-4f2a-8c3b-ff4e61cdbefb",
+        "type": "Camera Footage",
+        "description": "Inside and outside the bank. Footage of the getaway vehicle, a 2000 Dodge Caravan",
+        "amount": 2
+    },
+    {
+        "id": "0149cc26-6bb2-4383-8350-52de9efef10a",
+        "type": "Forensics",
+        "description": "Possible hair of suspect",
+        "amount": 1
+    }
+]

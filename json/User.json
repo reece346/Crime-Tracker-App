@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "Michael",
+        "lastName": "Helix", 
+        "userName": "bigMike69",
+        "password": "asedf",
+        "precinct": "South Glens Falls", 
+        "department": "Police Department",
+        "crimeList": []
+    },
+    {
+        "firstName": "Micahel",
+        "lastName": "Jackson", 
+        "userName": "HEHEGuy100",
+        "password": "beatit",
+        "precinct": "Washington DC", 
+        "department": "Police Department",
+        "crimeList": []
+    }
+]

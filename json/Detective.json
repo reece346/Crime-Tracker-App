@@ -1,0 +1,62 @@
+[
+    {
+        "lastName": "Vandelay",
+        "badgeNumber": "335",
+        "solvedCases": 0,
+        "userName": "Twix",
+        "firstName": "Art",
+        "precinct": "Columbia",
+        "password": "gugenheim95",
+        "yearsServed": 9,
+        "rank": "Corporal",
+        "activeCasesList": [],
+        "id": "edf66144-0dcb-40d1-b4f2-6cc1d60b1bc6",
+        "department": "State Police",
+        "activeCases": 0
+    },
+    {
+        "lastName": "Costanza",
+        "badgeNumber": "977",
+        "solvedCases": 0,
+        "userName": "shortstalky",
+        "firstName": "George",
+        "precinct": "Columbia",
+        "password": "baldman12",
+        "yearsServed": 2,
+        "rank": "Seargent",
+        "activeCasesList": [],
+        "id": "2a5aea58-6361-4b0f-b48f-1f5189f8be88",
+        "department": "Richland County Police",
+        "activeCases": 0
+    },
+    {
+        "lastName": "Stuart",
+        "badgeNumber": "763",
+        "solvedCases": 0,
+        "userName": "jstuart",
+        "firstName": "Jerry",
+        "precinct": "Irmo",
+        "password": "jerry4321",
+        "yearsServed": 10,
+        "rank": "Detective",
+        "activeCasesList": [],
+        "id": "f6e18749-4ed0-4858-b609-195194398919",
+        "department": "County",
+        "activeCases": 0
+    },
+    {
+        "lastName": "Johnson",
+        "badgeNumber": "863",
+        "solvedCases": 0,
+        "userName": "jtom54",
+        "firstName": "Tom",
+        "precinct": "Lexington",
+        "password": "hello8*",
+        "yearsServed": 15,
+        "rank": "Detective",
+        "activeCasesList": [],
+        "id": "8186f932-3e46-44f8-a624-6c28dd1f38eb",
+        "department": "Traffic",
+        "activeCases": 0
+    }
+]

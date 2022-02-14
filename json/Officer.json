@@ -1,0 +1,50 @@
+[
+    {
+        "firstName": "Reed",
+        "lastName": "Wopne",
+        "precinct": "Columbia",
+        "password": "offy246",
+        "yearsServed": 4,
+        "rank": "Lieutenant",
+        "id": "aafd3f2a-e504-4c30-9dda-2b5956288e37",
+        "badgeNumber": "245",
+        "userName": "WopRe",
+        "department": "State Police"
+    },
+    {
+        "firstName": "Wade",
+        "lastName": "Opal",
+        "precinct": "York",
+        "password": "otreach265",
+        "yearsServed": 2,
+        "rank": "Officer",
+        "id": "3c2b253d-4b02-47e5-90a3-4e2d044402d5",
+        "badgeNumber": "158",
+        "userName": "WaOpal",
+        "department": "County Police"
+    },
+    {
+        "firstName": "Sam",
+        "lastName": "Smith",
+        "precinct": "North Columbia",
+        "password": "asdf1234",
+        "yearsServed": 10,
+        "rank": "Sergeant",
+        "id": "f8126646-3934-44d6-a204-f1feef86f363",
+        "badgeNumber": "513",
+        "userName": "Sammyboy",
+        "department": "State"
+    },
+    {
+        "firstName": "Roy",
+        "lastName": "Smith",
+        "precinct": "South Columbia",
+        "password": "roy123",
+        "yearsServed": 15,
+        "rank": "Sergeant",
+        "id": "2e95d16b-4ee7-4cc9-b78b-0e0892a22e9a",
+        "badgeNumber": "39581",
+        "userName": "Rsmith",
+        "department": "Traffic"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "firstName":"Tyler",
+        "lastName":"Shatley",
+        "userName":"BigDawg420",
+        "password":"1234five",
+        "precinct":"Saratoga",
+        "department": "pd",
+        "phoneNumber": "864-867-5309",
+        "email":"tdog@gmail.com"
+    },
+    {
+        "firstName":"Ethan",
+        "lastName":"Rockies",
+        "userName":"BogSagetLuvr12",
+        "password":"baseball<3",
+        "precinct":"Greenville",
+        "department": "pd",
+        "phoneNumber": "864-812-9047",
+        "email":"blink182Fan@gmail.com"
+    }
+
+]

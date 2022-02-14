@@ -1,0 +1,58 @@
+[
+    {
+        "lastName": "Unknown",
+        "tattooed": false,
+        "deceased": false,
+        "shoeSize": 10.0,
+        "race": "White",
+        "gender": "Male",
+        "eyeColor": "Green",
+        "facialHairDesc": "Unknown",
+        "naturalHairColor": "Unknown",
+        "nickName": "Unknown",
+        "weight": 200,
+        "carDescription": "2007 Dodge Van",
+        "clothesDesc": "Ski mask with heavy clothing",
+        "hairLength": "Unknown",
+        "firstName": "Unknown",
+        "tattooList": [],
+        "phoneNumber": "Unknown",
+        "address": "Unknown",
+        "licensePlate": "Covered",
+        "id": "e87c2ffb-20fa-4bf3-a793-0ded4e067155",
+        "age": 30,
+        "hasCar": true,
+        "height": "6'1\"",
+        "reasons": [
+            "This is all the information we have on the suspect. More to come as the investigation continues"
+        ]
+    },
+    {
+        "lastName": "Unknown",
+        "tattooed": false,
+        "deceased": false,
+        "shoeSize": 9.0,
+        "race": "White",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "facialHairDesc": "Unknown",
+        "naturalHairColor": "Unknown",
+        "nickName": "Unknown",
+        "weight": 170,
+        "carDescription": "2011 Chevrolet Impala",
+        "clothesDesc": "Jeans and a hoodie",
+        "hairLength": "Unknown",
+        "firstName": "Unknown",
+        "tattooList": [],
+        "phoneNumber": "Unknown",
+        "address": "Unknown",
+        "licensePlate": "Unknown",
+        "id": "b1e58c9a-5542-48c3-9477-c27171f3ed06",
+        "age": 20,
+        "hasCar": true,
+        "height": "5'10\"",
+        "reasons": [
+            "This is all the information we have on the suspect. More to come as the investigation continues"
+        ]
+    }
+]
